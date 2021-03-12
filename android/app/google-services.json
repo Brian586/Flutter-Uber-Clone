@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600244050828",
+    "firebase_url": "https://flutter-uber-clone-fb995.firebaseio.com",
+    "project_id": "flutter-uber-clone-fb995",
+    "storage_bucket": "flutter-uber-clone-fb995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600244050828:android:f6916a4c117cc6d0ac54a9",
+        "android_client_info": {
+          "package_name": "com.brian586.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600244050828-nqk2r7nrq3ekf4u1buv6cd642a2r1hvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brian586.riderapp",
+            "certificate_hash": "21518a7c3d9f2c488dddab8356f6cc0b283458ed"
+          }
+        },
+        {
+          "client_id": "600244050828-fnskikseg2poq7eb5uc6l4gmicdmm5jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG0HRHY9Ctu5SYzt7aMgXhVn_KcMHxQns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600244050828-fnskikseg2poq7eb5uc6l4gmicdmm5jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
